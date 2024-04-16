@@ -6,6 +6,9 @@ Date and Time Created: 4/16/2024 @ 5:20 PM BST
 
 Description: This module contains a function to convert a pandas DataFrame into a LaTeX table.
 
+Requirements:
+    - pandas (2.1.4 or later)
+
 Function: latexify_table
     Description: Converts a pandas DataFrame into a LaTeX table format.
     Parameters:
